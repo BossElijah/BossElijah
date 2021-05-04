@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BossElijah
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding and soccer.
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: eliasbruhn123@gmail.com
+- 💞️ I’m 15 years old, and started when I was 13.
+- 📫 How to reach me: ...
 
 <!---
 BossElijah/BossElijah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
