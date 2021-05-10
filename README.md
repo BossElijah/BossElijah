@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BossElijah
 - 👀 I’m interested in coding and soccer.
 - 🌱 I’m currently learning React.
-- 💞️ I’m 15 years old, and started when I was 13.
+- 💞️ I’m 15 years old, and started coding when I was 13.
 - 📫 How to reach me: ...
 
 <!---
