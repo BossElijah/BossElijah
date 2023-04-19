@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BossElijah
 - 👀 I’m interested in coding and soccer.
 - 🌱 I’m currently working with Drupal and React.
-- 💞️ I’m 16 years old, and started coding when I was 13.
+- 💞️ I’m XX years old, and started coding when I was 13.
 - 📫 How to reach me: ...
 
 <!---
