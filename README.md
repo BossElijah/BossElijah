@@ -2,7 +2,9 @@
 - 👀 I’m interested in coding and soccer.
 - 🌱 I’m currently working with Drupal and React.
 - 💞️ I’m XX years old, and started coding when I was 13.
-- 📫 How to reach me: ...
+- 📫 How to reach me... hah, u don't!
+
+
 
 <!---
 BossElijah/BossElijah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
