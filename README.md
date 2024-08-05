@@ -4,8 +4,6 @@
 - 💞️ I’m XX years old, and started coding when I was 13.
 - 📫 How to reach me... hah, u don't! (I actually have a [contact](bosselijah.github.io/contact) page on my website.)
 
-![Visitor Count](https://profile-counter.glitch.me/BossElijah/count.svg)
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ```css
