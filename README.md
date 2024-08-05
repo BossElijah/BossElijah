@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @BossElijah
-- 👀 I’m interested in coding and soccer.
+- 👀 I’m interested in coding, football ⚽, kickboxing, singing, and playing guitar.
 - 🌱 I’m currently working with Drupal and React.
 - 💞️ I’m XX years old, and started coding when I was 13.
 - 📫 How to reach me... hah, u don't! (I actually have a [contact](bosselijah.github.io/contact) page on my website.)
+
+
 
 ```css
 #BossElijah { 
