@@ -1,6 +1,6 @@
 <div align="center">
   
-👋 Hi, I’m @BossElijah
+<h1>👋 Hi, I’m @BossElijah</h1>
   
 👀 I’m interested in coding, football ⚽, kickboxing, singing, and playing guitar.
 
@@ -10,11 +10,11 @@
 
 📫 How to reach me... hah, u don't! (I actually have a [contact]([bosselijah.github.io/contact](https://bosselijah.github.io/#/contact)) page on my website.)
 
-</div>
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 Yo take a look at my [raycast extensions!](https://www.raycast.com/BossElijah)
+
+</div>
 
 ```css
 #BossElijah { 
@@ -42,12 +42,12 @@ Yo take a look at my [raycast extensions!](https://www.raycast.com/BossElijah)
 ```
 
 ```console
-binary@lovesmacbook:~$ neofetch
+BossElijah@lovesmacbook:~$ neofetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
               `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 BossElijah@lovesmacbook
-           -Lq#@@@@@@@@@@@BINARY@@@@@@@@@@@@@#qr-              -----------------------
-        .V0@@@@@@@@@@@@@@@@BYTES@@@@@@@@@@@@@@@@@0?.           OS: OSX/MacOS
+           -Lq#@@@@@@@@@@BOSSELIJAH@@@@@@@@@@@qr-              -----------------------
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: OSX/MacOS
       _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: at least 5+ years
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Profession: full stack web dev
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      CPU: Abnormal Human Brain
