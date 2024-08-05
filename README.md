@@ -12,6 +12,8 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+If I can't install it with Homebrew, I don't install it!
+
 Yo take a look at my [raycast extensions!](https://www.raycast.com/BossElijah)
 
 </div>
