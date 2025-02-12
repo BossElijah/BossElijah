@@ -2,7 +2,7 @@
   
 <h1>👋 Hi, I’m @BossElijah</h1>
   
-👀 I’m interested in coding, football ⚽, kickboxing, singing, and playing guitar.
+👀 I’m interested in coding, football ⚽, paintball, and playing guitar.
 
 🌱 I’m currently working with Drupal and React.
 
@@ -12,7 +12,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-If I can't install it with Homebrew, I don't install it!
+If you can't install it with Homebrew, I don't install it!
 
 Yo take a look at my [raycast extensions!](https://www.raycast.com/BossElijah)
 
